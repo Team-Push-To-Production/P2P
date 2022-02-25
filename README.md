@@ -1,5 +1,5 @@
 # Project ECOM
-Project ECOM is a single page e-commerce web application created utilizing React and Node/Express. This project was created by a team of three engineers at DJAM Industries.
+Project ECOM is a single page e-commerce web application created utilizing React and Node/Express. This project was collaboratively built by a team of four engineers at DJAM Industries.
 
 ![Screenshot](https://i.makeagif.com/media/2-25-2022/zsFKJB.gif)
 
